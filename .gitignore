@@ -1,0 +1,10 @@
+node_modules/
+.next/
+.env.local
+.env*.local
+
+# Nahrané soubory — do repa nepatří
+data/uploads/
+
+# Per-účastník (generováno /app-setup)
+.participant-level
